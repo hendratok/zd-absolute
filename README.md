@@ -13,3 +13,5 @@ Parameter:
 
 example:
 [zd-absolute img="https://yourdomain.com/wp-content/uploads/2021/09/letter-top.png" top="0"]
+
+[zd-absolute img="https://yourdomain.com/wp-content/uploads/2021/09/letter-top.png" top="10" right="10" left="50" bottom="100"]
